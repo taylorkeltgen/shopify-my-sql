@@ -22,7 +22,7 @@
 
 ## Video Walkthru:
 
-- [Video Showcase](https://watch.screencastify.com)
+- [Video Showcase](https://watch.screencastify.com/v/0O7URkS66iIOCkaoVTHD)
 
 ## Contributions:
 
